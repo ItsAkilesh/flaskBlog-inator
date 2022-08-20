@@ -82,6 +82,3 @@ def delete(id):
     flash(f"{post['title']} was successfully deleted!")
     return redirect(url_for('index'))
 
-@app.route('/test')
-def test():
-    return render_template('test.html')

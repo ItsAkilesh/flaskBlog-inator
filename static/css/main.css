@@ -1,0 +1,15 @@
+.card {
+    align-self: center;
+    width: auto;
+    box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+    height: auto;
+    border-radius: 15px;
+    backdrop-filter: blur(14px);
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+}
+
+.navbar-toggler-icon{
+    border: none;
+}
+
